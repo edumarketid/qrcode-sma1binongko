@@ -1,0 +1,26 @@
+{
+"short_name": "Absensi SMAN 1 Binongko",
+"name": "Sistem Absensi Murid - v2.63",
+"description": "Sistem Presensi dan Absensi QR Code Siswa SMAN 1 Binongko",
+"start_url": "./index.html",
+"scope": "./",
+"display": "standalone",
+"background_color": "#0b3c5d",
+"theme_color": "#0b3c5d",
+"orientation": "portrait",
+"lang": "id",
+"icons": [
+{
+"src": "https://lh3.googleusercontent.com/d/1PHtkzVdg7jtYsQjz94kYOO69LVgwLHbm",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src": "https://lh3.googleusercontent.com/d/1PHtkzVdg7jtYsQjz94kYOO69LVgwLHbm",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+]
+}
